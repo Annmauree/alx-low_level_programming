@@ -8,3 +8,4 @@ int main(void)
 {
 	fput("and that place of art is useful\" - Dora Korpar, 2015-20-19\n", stdout);
 return (1);
+}
